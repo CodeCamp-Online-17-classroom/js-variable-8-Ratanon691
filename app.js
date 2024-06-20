@@ -3,4 +3,4 @@ let a = 0
 a += 3
 a *= 17
 a %= 7
-// a = 5
+console.log(a)// a = 5
